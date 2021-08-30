@@ -15,7 +15,7 @@ yellow disc or green disc.
 The game's GUI was implemented using tkinter library, a picture from a game:
 ![Screenshot](screenshot.png)
 
-###In order to run the code you should install numpy and numba libraries by running this code: ###
+### In order to run the code you should install numpy and numba libraries by running this code: ###
 "pip install numpy"\
 "pip install numba"\
 numba is just-in-time compiler (for better runtime).\
